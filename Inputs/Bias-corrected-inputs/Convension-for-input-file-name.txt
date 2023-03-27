@@ -1,0 +1,9 @@
+How to read file names:
+
+a_b_c_input.txt
+
+where a is CMIP6 CESM2 scenario (ssp245, ssp585)
+      b is CMIP6 CESM2 scenario ensemble (04 = r4i1p1f1, 10 = r10i1p1f1, 11 = r11i1p1f1)
+      c is CMIP6 CESM2 Historical ensemble member used for the delta method (04 = r4i1p1f1, 10 = r10i1p1f1, 11 = r11i1p1f1)
+
+Example: ssp585_04_04_input.txt is a bias-corrected CMIP6 CESM2 SSP585 r4i1p1f1 relative to historical r4i1p1f1.
