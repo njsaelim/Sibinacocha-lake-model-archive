@@ -19,3 +19,5 @@ The response of Andean high-alpine lakes (>4,000 m above sea level) to atmospher
 - Weather observation data used for data bias correction are provided by SENAMHI (https://www.senamhi.gob.pe/?&p=estaciones; air temperature, relative humidity, wind speed), and Douglas Hardy (UMass Amherst; radiation data)
 - We use ERA5-Land dataset and CMIP6 CESM2 SSP2-4.5, SSP5-8.5, and historical which can be found at https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-land?tab=overview and https://www.cesm.ucar.edu/models/cesm2, respectively.
 - The model used in this research can be found at https://github.com/carriemorrill/lake-model.
+- Specific parameters used in the lake model are under the Part-1-calibration folder (lake.inc).
+- 1000 combinations of ETA and CDRN used during the calibration can be found in the Part-1-calibration folder (lake-params.txt).
