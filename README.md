@@ -1,4 +1,4 @@
-# Late 20th and 21st century lake energy balance responses to warming in the tropical high Andes.
+# Late 20th and 21st century lake energy balance responses to warming in the tropical high Andes. [Original submimssion - archived]
 A repository for "Late 20th and 21st century lake energy balance responses to warming in the tropical high Andes" (in revision, Global and Planetary Change).
 
 Citation:
